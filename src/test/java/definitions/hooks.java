@@ -34,7 +34,7 @@ public class hooks {
         }
     }
 
-   // @After
+    // @After
     public static void tearDown()
     {
         driver.manage().deleteAllCookies();
